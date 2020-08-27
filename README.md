@@ -3,25 +3,24 @@
 My name is Mauro and 
 Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)  
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+</details>
+
 ---
 
-### - Languages and Tools...
+### - Some languages and tools than I know
 
 <p align="center">
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/css.png" alt="css" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:4px">
+</p>
 
 ---
-</p>
 
 ### - I'm currently...
 
