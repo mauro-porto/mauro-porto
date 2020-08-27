@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is Mauro and 
+I am a Front End Javascript Developer and I love to play with code and performance optimization. I am always excited to learn new things and share them with others, study themes of TI has become my habit.
 Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)  
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  Outgoing, proactive and creative are characteristics that define me. Having positivity helps me to make the best decisions and stay calm when programming and creating a new layout for a screen. As a hobby, I usually develop projects that stimulate my creativity and logical thinking, in addition, I love play soccer, watching videos about technologies and discussions about financial!
 </details>
 
 ---
@@ -26,7 +27,6 @@ Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)
 
 - Improving my React skills.
 - Learning to develop Mobile-first web-apps.
-- Learning React with Redux.
 - Adding databases to my skill set.
 
 ---
