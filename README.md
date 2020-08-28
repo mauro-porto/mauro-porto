@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Front End Javascript Developer and I love to play with code and performance optimization. I am always excited to learn new things and share them with others, study themes of TI has become my habit.
-Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)  
+Respect and admiration for the culture, process and skill of web development, as well as understanding the customer experience, valuing what is necessary to build long-term relationships. Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)  
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
@@ -10,11 +9,10 @@ Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)
 
 ---
 
-### - Some languages and tools than I know
+### - Some languages and tools than I know ⚡
 
 <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
@@ -25,24 +23,9 @@ Contact me on [Linkedin](https://www.linkedin.com/in/mauroporto/)
 
 ### - I'm currently...
 
-- Improving my React skills.
-- Learning to develop Mobile-first web-apps.
-- Adding databases to my skill set.
+- Improve my skills in Css (using grid layout and flexbox).
+- Developing responsive platforms
+- Learning React
+- Adding API (rest) to my skill set.
 
 ---
-
-
-<!--
-**mauro-porto/mauro-porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
